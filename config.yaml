@@ -1,0 +1,61 @@
+baseURL: "https://gallant-golick-441dd7.netlify.app"
+languageCode: "en-us"
+title: Phillip Luong
+theme: colordrop
+
+author:
+  name: Phillip Luong
+  job: Hobby Data Scientist
+  image: image.png
+  github: https://github.com/phillipluong
+  twitter: 
+  linkedin: linkedin.com/in/phillipluong
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: blog/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: tags/
+      weight: 3
+  footer:
+    - identifier: github
+      name: github
+      url: "https://github.com/phillipluong"
+      weight: 1
+    - identifier: linkedin
+      name: linkedin
+      url: "linkedin.com/in/phillipluong"  
+      weight: 2
+    - identifier: curriculum
+      name: curriculum
+      url: "/curriculum"
+      weight: 3
+    - identifier: email
+      name: email
+      url: "mailto:iamphillipluong@gmail.com"
+      weight: 4
+
+params:
+  description: A page about Phillip Luong, a dancing, board-game loving data enthusiast. Check out my blog! Social media and CV also linked below.
+  siteLogo: /img/linkedin.png
+  themeColor: "#000000"
+  themeInverseColor: "#ffffff"
+
+  license:
+    name: Attribuition-ShareAlike
+    type: by-sa
+    version: "4.0"
+    locale: en
+    size: 88x31
+
+languages:
+  en:
+    languageName: English
+    weight: 1
