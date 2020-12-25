@@ -5,7 +5,7 @@ publishDate: 2020-05-02
 images:
   - /profile.png
 tags: ["python", "data analysis", "productivity", "dashboard"]
-draft: false
+draft: true
 
 ---
 It's been a while! A couple of months ago I got a bit of motivation from a friend to create my own dashboard to analyse my own habits and analyse which habits lead to 'better' days (in the most subjective way possible). I had previously recorded this via an excel sheet between October 2019 to March 2020, and wanted to keep up a habit like that again. 
