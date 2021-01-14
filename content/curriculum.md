@@ -16,8 +16,8 @@ contact:
     url: "mailto:iamphillipluong@gmail.com"
   - identifier: website
     svg: website
-    display: phillipluong.github.io
-    url: "phillipluong.github.io"
+    display: phillipluong.com
+    url: "www.phillipluong.com"
   - identifier: github
     svg: github
     display: phillipluong
@@ -139,12 +139,12 @@ techSkills: |
 
 softSkills: |
 
-    Avid problem solver </br>
-    Strong background in Mathematics and Statistics </br>
-    Open minded to learn new things </br>
-    Passion to pursue projects </br>
-    Great decision maker </br>
-    Project management experience </br>
+    - Avid problem solver 
+    - Strong background in Mathematics and Statistics 
+    - Open minded to learn new things 
+    - Passion to pursue projects 
+    - Great decision maker 
+    - Project management experience 
 
 publications: |
     ##### 2020
