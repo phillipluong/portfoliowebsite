@@ -9,7 +9,7 @@ profile: |
 
     I'm an **Applied Mathematics and Statistics** Honours Graduate from Monash University who is interested in **Data Modelling and Analytics**. I am particularly interested in Machine Learning and Neural Networks. I am always looking for ways to expand my knowledge. 
 
-    You can download a physical version of my CV![here](google.com). 
+    You can download a physical version of my CV [here](https://github.com/phillipluong/portfoliowebsite/blob/main/content/Luong_CV.pdf). 
 
 contact:
   - identifier: email

@@ -43,7 +43,7 @@ menu:
       weight: 4
 
 params:
-  description: Welcome to my website! Here, you learn more about me and my current work though my blog. Each blog post is paired with a Github repo, so please check that out too! Social media and CV are also linked below.
+  description: Welcome to my website! Here, you learn more about me and my current work though my blog. Each blog post is paired with their own Github repository, so please check that out too! Social media and CV are also linked below.
   siteLogo: /img/linkedin.png
   themeColor: "#000000"
   themeInverseColor: "#ffffff"
