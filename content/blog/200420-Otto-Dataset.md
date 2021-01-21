@@ -31,7 +31,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(model.parameters(), lr=0.01, momentum=0.5)
 {{< / highlight >}}
 
-![Confusion Matrix](/img/200430_otto/confusion_matrix.png)
+![Confusion Matrix](/200430_otto/confusion_matrix.png)
 
 
 To read more, please visit [my repository for this project](https://github.com/phillipluong/PyTorchProjects/tree/master/Otto%20Model)
