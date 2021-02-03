@@ -1,7 +1,7 @@
 ---
 title: TFT Dataset Analysis
 description: yay
-publishDate: 2020-12-19
+publishDate: 2021-02-03
 images:
   - /201220_tft/5_moonlight.png
 tags: ["python", "data analysis", "exploratory data analysis", "teamfight tactics", "data viz"]
